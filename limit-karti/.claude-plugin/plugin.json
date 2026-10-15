@@ -1,0 +1,7 @@
+{
+  "name": "limit-karti",
+  "version": "0.1.0",
+  "description": "Context doluluğu, 5 saatlik ve haftalık Claude limiti: prompt üstünde şerit, /limit ile kart",
+  "author": { "name": "Emrullah Yaprak" },
+  "types":"./types/index.d.ts"
+}
